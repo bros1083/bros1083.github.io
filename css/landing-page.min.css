@@ -1,0 +1,500 @@
+[class^="icon-"], [class*=" icon-"] {
+     display: inline-block;
+     width: 100%;
+}
+ td i {
+     text-align:center;
+}
+ body{
+     font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+ h1,h2,h3,h4,h5,h6{
+     font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;
+     font-weight:700 
+}
+ header.masthead{
+     position:relative;
+     background-color:#343a40;
+     background:url(../img/Background.jpg) no-repeat center center;
+     background-size:cover;
+     padding-top:8rem;
+     padding-bottom:8rem 
+}
+ header.masthead .overlay{
+     position:absolute;
+     background-color:#212529;
+     height:100%;
+     width:100%;
+     top:0;
+     left:0;
+     opacity:.8 
+}
+ header.masthead h1{
+     font-size:2rem 
+         font-family: 'Francois One', sans-serif;
+     color:#cdd2d8;
+}
+ header.mastheadp{
+     position:relative;
+     background-color:#343a40;
+     background:url("https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?cs=srgb&dl=cyber-security-cybersecurity-device-60504.jpg&fm=jpg") no-repeat;
+     background-size:cover;
+     padding-top:8rem;
+     padding-bottom:8rem;
+}
+ header.mastheadp .overlay{
+     position:absolute;
+     background-color:#212529;
+     height:100%;
+     width:100%;
+     top:0;
+     left:0;
+     opacity:.6
+}
+ header.mastheadp h1{
+     font-size:2rem 
+         font-family: 'Francois One', sans-serif;
+     color:#ffff;
+}
+ header.mastheade{
+     position:relative;
+     background-color:#343a40;
+     background:url("https://upload.wikimedia.org/wikipedia/commons/5/51/Front_of_server_racks_at_NERSC.jpg") no-repeat;
+     background-size:cover;
+     padding-top:8rem;
+     padding-bottom:8rem;
+}
+ header.mastheade .overlay{
+     position:absolute;
+     background-color:#212529;
+     height:100%;
+     width:100%;
+     top:0;
+     left:0;
+     opacity:.7 
+}
+ header.mastheade h1{
+     font-size:2rem 
+         font-family: 'Francois One', sans-serif;
+     color:#ffff;
+}
+ header.mastheadped{
+     position:relative;
+     background-color:#343a40;
+     background:url("https://upload.wikimedia.org/wikipedia/commons/8/84/Lincoln_Park_High_School.jpg") no-repeat;
+     background-size:cover;
+     padding-top:8rem;
+     padding-bottom:8rem;
+}
+ header.mastheadped .overlay{
+     position:absolute;
+     background-color:#212529;
+     height:100%;
+     width:100%;
+     top:0;
+     left:0;
+     opacity:.8 
+}
+ header.mastheadped h1{
+     font-size:2rem 
+         font-family: 'Francois One', sans-serif;
+     color:#ffff;
+}
+ header.mastheadpd{
+     position:relative;
+     background-color:#343a40;
+     background:url("https://c.pxhere.com/photos/53/d1/code_coding_website_html_language_data_computer-559689.jpg!d") no-repeat;
+     background-size:cover;
+     padding-top:8rem;
+     padding-bottom:8rem;
+}
+ header.mastheadpd .overlay{
+     position:absolute;
+     background-color:#212529;
+     height:100%;
+     width:100%;
+     top:0;
+     left:0;
+     opacity:.9
+         
+}
+ header.mastheadpd h1{
+     font-size:2rem 
+         font-family: 'Francois One', sans-serif;
+     color:#ffff;
+}
+ @media (min-width:768px){
+     header.masthead{
+         padding-top:12rem;
+         padding-bottom:12rem 
+    }
+     header.masthead h1{
+         font-size:3rem 
+    }
+}
+ .showcase .showcase-text{
+     padding:3rem 
+}
+ .showcase .showcase-img{
+     min-height:30rem;
+     background-size:cover 
+}
+ @media (min-width:768px){
+     .showcase .showcase-text{
+         padding:7rem 
+    }
+}
+ .features-icons{
+     padding-top:7rem;
+     padding-bottom:7rem 
+}
+ .features-icons .features-icons-item{
+     max-width:20rem 
+}
+ .features-icons .features-icons-item .features-icons-icon{
+     height:7rem 
+}
+ .features-icons .features-icons-item .features-icons-icon i{
+     font-size:4.5rem 
+}
+ .features-icons .features-icons-item:hover .features-icons-icon i{
+     font-size:5rem 
+}
+ .testimonials{
+     padding-top:7rem;
+     padding-bottom:7rem 
+}
+ .testimonials .testimonial-item{
+     max-width:18rem 
+}
+ .testimonials .testimonial-item img{
+     max-width:12rem;
+     -webkit-box-shadow:0 5px 5px 0 #adb5bd;
+     box-shadow:0 5px 5px 0 #adb5bd 
+}
+ .call-to-action{
+     position:relative;
+     background-color:#343a40;
+     background:url(../img/bg-masthead.jpg) no-repeat center center;
+     background-size:cover;
+     padding-top:7rem;
+     padding-bottom:7rem 
+}
+ .call-to-action .overlay{
+     position:absolute;
+     background-color:#212529;
+     height:100%;
+     width:100%;
+     top:0;
+     left:0;
+     opacity:.3 
+}
+ body {
+     margin: 0;
+     padding: 0;
+}
+ a.navbar-brand {
+     float: left;
+     height: 10px;
+     padding: 17px 15px;
+     font-size: 18px;
+     line-height: 20px;
+     text-decoration: none;
+     color: #ffffff;
+     font-family: 'Lato', sans-serif;
+     font-weight: 700;
+}
+ nav.main-navigation {
+     position: relative;
+     background-color: #262626;
+}
+ nav.main-navigation ul.nav-list {
+     margin: 0;
+     padding: 0;
+     list-style: none;
+     position: relative;
+     text-align: right;
+     font-family: 'Varela Round', sans-serif;
+}
+ .nav-list li.nav-list-item {
+     display: inline-block;
+     line-height: 40px;
+     margin-left: 30px;
+}
+ a.nav-link {
+     text-decoration: none;
+     font-size: 18px;
+     font-family: sans-serif;
+     font-weight: 500;
+     cursor: pointer;
+     position: relative;
+     color: #ffffff;
+}
+ @keyframes FadeIn {
+     0% {
+         opacity: 0;
+         -webkit-transition-duration: 0.8s;
+         transition-duration: 0.8s;
+         -webkit-transform: translateY(-10px);
+         -ms-transform: translateY(-10px);
+         transform: translateY(-10px);
+    }
+     100% {
+         opacity: 1;
+         -webkit-transform: translateY(0);
+         -ms-transform: translateY(0);
+         transform: translateY(0);
+         pointer-events: auto;
+         transition: cubic-bezier(0.4, 0, 0.2, 1);
+    }
+}
+ .nav-list li {
+     animation: FadeIn 1s cubic-bezier(0.65, 0.05, 0.36, 1);
+     animation-fill-mode: both;
+}
+ .nav-list li:nth-child(1) {
+     animation-delay: .3s;
+}
+ .nav-list li:nth-child(2) {
+     animation-delay: .6s;
+}
+ .nav-list li:nth-child(3) {
+     animation-delay: .9s;
+}
+ .nav-list li:nth-child(4) {
+     animation-delay: 1.2s;
+}
+ .nav-list li:nth-child(5) {
+     animation-delay: 1.5s;
+}
+/* Animation */
+ @keyframes fadeInUp {
+     from {
+         transform: translate3d(0, 40px, 0) 
+    }
+     to {
+         transform: translate3d(0, 0, 0);
+         opacity: 1 
+    }
+}
+ @-webkit-keyframes fadeInUp {
+     from {
+         transform: translate3d(0, 40px, 0) 
+    }
+     to {
+         transform: translate3d(0, 0, 0);
+         opacity: 1 
+    }
+}
+ .animated {
+     animation-duration: 1s;
+     animation-fill-mode: both;
+     -webkit-animation-duration: 1s;
+     -webkit-animation-fill-mode: both 
+}
+ .animatedFadeInUp {
+     opacity: 0 
+}
+ .fadeInUp {
+     opacity: 0;
+     animation-name: fadeInUp;
+     -webkit-animation-name: fadeInUp;
+}
+ .breadcrumbs {
+     background: #262626;
+     box-shadow: inset 4px 104px 93px -18px rgba(76, 116, 110, 0.34);
+     moz-box-shadow: inset 4px 104px 93px -18px rgba(76, 116, 110, 0.34);
+     padding: 22px 0;
+     webkit-box-shadow: inset 4px 104px 93px -18px rgba(76, 116, 110, 0.34);
+     background-color: #262626;
+}
+ .breadcrumbs h1 {
+     color: #fff;
+     font-size: 23px;
+     margin-left: 15px;
+     padding: 0;
+}
+.pricingtables {
+     background: #fff;
+     overflow: hidden;
+    
+}
+ .pricingtables h2 {
+     font-weight: 900;
+     padding-top: 15px;
+     text-align: center;
+     font-family: 'Archivo Narrow', sans-serif;
+}
+ .pricingtables p {
+     font-size: 19px;
+     font-weight: 300;
+     padding-top: 15px;
+     padding-left: 45px;
+     padding-right: 45px;
+     text-align: center;
+     font-family: 'Archivo Narrow', sans-serif;
+     margin:auto;
+     padding-bottom: 15px;
+}
+ .pricingtables h4 {
+     color: #6cd0c3;
+     font-size: 59px;
+     letter-spacing: -.07em;
+     margin: 0;
+     padding: 0 0 10px;
+     text-align: center;
+}
+ .pricingtables .panel {
+     border: 0;
+     border-radius: 0;
+     margin: 25px 25px;
+     padding: 15px 15px;
+     border-style: solid;
+     border-color: black;
+     border-width: thick;
+     background-color: #e8e4c9;
+}
+.pricingtables ul li:nth-child(odd) { background: #e8e4c9; }
+.pricingtables ul li:nth-child(even) { background: #9ca1a8; }
+ .pricingtables .panel-heading {
+     background: #222222;
+     border: 0;
+     border-radius: 0;
+     filter: none !important;
+}
+ .pricingtables .panel-heading h3 {
+     color: #fff;
+     font-size: 21px;
+     font-weight: 400;
+     letter-spacing: -.07em;
+     margin: 0;
+     padding: 12px 0;
+}
+ .pricingtables .panel-body {
+     background: #282828;
+     margin: 0;
+     padding: 10px 0 15px;
+}
+ .pricingtables .panel-body span {
+     color: #fff;
+     font-size: 11px;
+     margin: 0 auto;
+     padding: 5px 10px;
+}
+ .pricingtables .panel-body span.per {
+     background: #222222;
+     padding: 5px 10px 2px;
+}
+ .pricingtables ul {
+     border: 0;
+     list-style: none;
+     margin: 0;
+     padding: 0;
+}
+ .pricingtables ul li {
+     border: 0;
+     font-size: 16px;
+     padding: 20px 0;
+}
+
+ .pricingtables .panel-footer {
+     text-align: center;
+}
+ .pricingtables .btn-pricetable {
+     background: #6e6e6e;
+     border-radius: 0;
+     color: #fff;
+     font-size: 1.3em;
+     margin: 10px auto;
+     padding: 10px 30px;
+}
+ .pricingtables .btn-pricetable:hover {
+     background: #DE6262;
+}
+ .pricingtables .most-popular {
+     border-width: 3px;
+     box-shadow: 20px 0 20px -10px rgba(0, 0, 0, .15), -20px 0 20px -10px rgba(0, 0, 0, .15);
+     padding: 0;
+     top: -26px;
+     z-index: 2;
+}
+ .pricingtables .most-popular .panel-heading {
+     background: #3a5955;
+}
+ .pricingtables .most-popular .panel-body {
+     background: #49716c;
+}
+ .pricingtables .most-popular h4 {
+     color: #fff;
+}
+ .pricingtables .most-popular .panel-body span.per {
+     background: #3a5955;
+}
+ .pricingtables .most-popular ul li {
+     font-size: 17px;
+     padding: 23px 0;
+}
+ .pricingtables .most-popular .btn-pricetable {
+     margin: 15px auto;
+}
+footer {
+    padding-top:25px;
+    padding-bottom: 25px;
+}
+footer li a{
+    font-family: 'Assistant', sans-serif;
+    color: #ffffff;
+    
+}
+server section{padding-right:15px; padding-left:15px;}
+
+.about h2 {
+     color: #6cd0c3;
+     font-size: 59px;
+     margin: 0;
+     padding: 0 0 10px;
+     text-align: center;
+}
+.about{background-color:#fff}
+.contactpadding{
+    padding: 45px 20px;
+}
+.Product-Info h3{
+    color: black;
+    font-family: 'Fjalla One', sans-serif;
+    padding: 15px 15px;
+    font-size: 34px;
+    text-align: center;
+}
+.Product-Info p{
+    color: black;
+    font-family: 'Fjalla One', sans-serif;
+    padding: 15px 15px;
+    font-size: 20px;
+    text-align: right;
+}
+.Product-Info ul{
+    color: black;
+    font-family: 'Ropa Sans', sans-serif;
+    padding: 15px 15px;
+    font-size: 12px;
+    text-align: center;
+    list-style-type: none;
+}
+.Product-Info li{
+    color: black;
+    font-family: 'Ropa Sans', sans-serif;
+    padding: 15px 5px;
+    font-size: 17px;
+    text-align: right;
+    list-style-type: none;
+     border-style: solid;
+     border-color: black;
+     border-width: thin;
+    margin-left: 900px;
+        
+}
+.content-right{
+    float:right;
+    padding-right: 12px;
+}
